@@ -97,7 +97,7 @@
 								   </ul>
 
 								   <!-- Tab panes -->
-								   <form >
+								   <form action="/Flyway/login.jsp" method="post">
 									<div class="tab-content">
 									 <div role="tabpanel" class="tab-pane active" id="flights">
 										<div class="row">
