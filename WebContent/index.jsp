@@ -136,9 +136,9 @@
 							</div>
 							<div class="desc2 animate-box">
 								<div class="col-sm-7 col-sm-push-1 col-md-7 col-md-push-1">
-									<h2>Exclusive Limited Time Offer</h2>
-									<h3>Fly to Hong Kong via Los Angeles, USA</h3>
-									<span class="price">$599</span>
+									<h2>Hi!Where would you like to go?</h2>
+									<h3>Plan Your Trip</h3>
+									<span class="price">from $99</span>
 									<!-- <p><a class="btn btn-primary btn-lg" href="#">Get Started</a></p> -->
 								</div>
 							</div>
@@ -152,17 +152,11 @@
 		<div id="fh5co-tours" class="fh5co-section-gray">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-8 col-md-offset-2 text-center heading-section animate-box">
-						<h3>Hot Tours</h3>
-						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-					</div>
-				</div>
-				<div class="row">
 					<div class="col-md-4 col-sm-6 fh5co-tours animate-box" data-animate-effect="fadeIn">
 						<div href="#"><img src="/Flyway/resources/images/place-1.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
 							<div class="desc">
 								<span></span>
-								<h3>New York</h3>
+								<h3>Singapore</h3>
 								<span>3 nights + Flight 5*Hotel</span>
 								<span class="price">$1,000</span>
 								<a class="btn btn-primary btn-outline" href="login.jsp">Book Now <i class="icon-arrow-right22"></i></a>
@@ -173,7 +167,7 @@
 						<div href="#"><img src="/Flyway/resources/images/place-2.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
 							<div class="desc">
 								<span></span>
-								<h3>Philippines</h3>
+								<h3>Australia</h3>
 								<span>4 nights + Flight 5*Hotel</span>
 								<span class="price">$1,000</span>
 								<a class="btn btn-primary btn-outline" href="login.jsp">Book Now <i class="icon-arrow-right22"></i></a>
@@ -196,163 +190,21 @@
 					</div>
 				</div>
 			</div>
-		</div>
-
+		</div>		
 		
-		<div id="fh5co-destination">
-			<div class="tour-fluid">
-				<div class="row">
-					<div class="col-md-12">
-						<ul id="fh5co-destination-list" class="animate-box">
-							<li class="one-forth text-center" style="background-image: url(/Flyway/resources/images/place-1.jpg); ">
-								<a href="#">
-									<div class="case-studies-summary">
-										<h2>Los Angeles</h2>
-									</div>
-								</a>
-							</li>
-							<li class="one-forth text-center" style="background-image: url(/Flyway/resources/images/place-2.jpg); ">
-								<a href="#">
-									<div class="case-studies-summary">
-										<h2>Hongkong</h2>
-									</div>
-								</a>
-							</li>
-							<li class="one-forth text-center" style="background-image: url(/Flyway/resources/images/place-3.jpg); ">
-								<a href="#">
-									<div class="case-studies-summary">
-										<h2>Italy</h2>
-									</div>
-								</a>
-							</li>
-							<li class="one-forth text-center" style="background-image: url(/Flyway/resources/images/place-4.jpg); ">
-								<a href="#">
-									<div class="case-studies-summary">
-										<h2>Philippines</h2>
-									</div>
-								</a>
-							</li>
-
-							<li class="one-forth text-center" style="background-image: url(/Flyway/resources/images/place-5.jpg); ">
-								<a href="#">
-									<div class="case-studies-summary">
-										<h2>Japan</h2>
-									</div>
-								</a>
-							</li>
-							<li class="one-half text-center">
-								<div class="title-bg">
-									<div class="case-studies-summary">
-										<h2>Most Popular Destinations</h2>
-										<span><a href="#">View All Destinations</a></span>
-									</div>
-								</div>
-							</li>
-							<li class="one-forth text-center" style="background-image: url(/Flyway/resources/images/place-6.jpg); ">
-								<a href="#">
-									<div class="case-studies-summary">
-										<h2>Paris</h2>
-									</div>
-								</a>
-							</li>
-							<li class="one-forth text-center" style="background-image: url(/Flyway/resources/images/place-7.jpg); ">
-								<a href="#">
-									<div class="case-studies-summary">
-										<h2>Singapore</h2>
-									</div>
-								</a>
-							</li>
-							<li class="one-forth text-center" style="background-image: url(/Flyway/resources/images/place-8.jpg); ">
-								<a href="#">
-									<div class="case-studies-summary">
-										<h2>Madagascar</h2>
-									</div>
-								</a>
-							</li>
-							<li class="one-forth text-center" style="background-image: url(/Flyway/resources/images/place-9.jpg); ">
-								<a href="#">
-									<div class="case-studies-summary">
-										<h2>Egypt</h2>
-									</div>
-								</a>
-							</li>
-							<li class="one-forth text-center" style="background-image: url(/Flyway/resources/images/place-10.jpg); ">
-								<a href="#">
-									<div class="case-studies-summary">
-										<h2>Indonesia</h2>
-									</div>
-								</a>
-							</li>
-						</ul>		
-					</div>
-				</div>
-			</div>
-		</div>
 		
 		<footer>
 			<div id="footer">
-				<div class="container">
-					<div class="row row-bottom-padded-md">
-						<div class="col-md-2 col-sm-2 col-xs-12 fh5co-footer-link">
-							<h3>About Travel</h3>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-						</div>
-						<div class="col-md-2 col-sm-2 col-xs-12 fh5co-footer-link">
-							<h3>Top Flights Routes</h3>
-							<ul>
-								<li><a href="#">Manila flights</a></li>
-								<li><a href="#">Dubai flights</a></li>
-								<li><a href="#">Bangkok flights</a></li>
-								<li><a href="#">Tokyo Flight</a></li>
-								<li><a href="#">New York Flights</a></li>
-							</ul>
-						</div>
-						<div class="col-md-2 col-sm-2 col-xs-12 fh5co-footer-link">
-							<h3>Top Hotels</h3>
-							<ul>
-								<li><a href="#">Boracay Hotel</a></li>
-								<li><a href="#">Dubai Hotel</a></li>
-								<li><a href="#">Singapore Hotel</a></li>
-								<li><a href="#">Manila Hotel</a></li>
-							</ul>
-						</div>
-						<div class="col-md-2 col-sm-2 col-xs-12 fh5co-footer-link">
-							<h3>Interest</h3>
-							<ul>
-								<li><a href="#">Beaches</a></li>
-								<li><a href="#">Family Travel</a></li>
-								<li><a href="#">Budget Travel</a></li>
-								<li><a href="#">Food &amp; Drink</a></li>
-								<li><a href="#">Honeymoon and Romance</a></li>
-							</ul>
-						</div>
-						<div class="col-md-2 col-sm-2 col-xs-12 fh5co-footer-link">
-							<h3>Best Places</h3>
-							<ul>
-								<li><a href="#">Boracay Beach</a></li>
-								<li><a href="#">Dubai</a></li>
-								<li><a href="#">Singapore</a></li>
-								<li><a href="#">Hongkong</a></li>
-							</ul>
-						</div>
-						<div class="col-md-2 col-sm-2 col-xs-12 fh5co-footer-link">
-							<h3>Affordable</h3>
-							<ul>
-								<li><a href="#">Food &amp; Drink</a></li>
-								<li><a href="#">Fare Flights</a></li>
-							</ul>
-						</div>
-					</div>
+				<div class="container">					
 					<div class="row">
 						<div class="col-md-6 col-md-offset-3 text-center">
 							<p class="fh5co-social-icons">
 								<a href="#"><i class="icon-twitter2"></i></a>
 								<a href="#"><i class="icon-facebook2"></i></a>
 								<a href="#"><i class="icon-instagram"></i></a>
-								<a href="#"><i class="icon-dribbble2"></i></a>
 								<a href="#"><i class="icon-youtube"></i></a>
 							</p>
-							<p>Copyright 2021 <a href="#">Module</a>. All Rights Reserved. <br>Made with <i class="icon-heart3"></i> by  Ahemmed</p>
+							<p>Copyright 2022  </p>
 						</div>
 					</div>
 				</div>
